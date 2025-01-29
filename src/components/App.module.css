@@ -1,0 +1,14 @@
+.recipe_container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}

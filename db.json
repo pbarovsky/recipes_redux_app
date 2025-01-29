@@ -1,0 +1,39 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Apple Frangipan Tart",
+      "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Apam balik",
+      "image": "https://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Ayam Percik",
+      "image": "https://www.themealdb.com/images/media/meals/020z181619788503.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Apple & Blackberry Crumble",
+      "image": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg"
+    },
+    {
+      "id": "c8d7",
+      "name": "egs",
+      "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?q=80&w=2020&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "7702",
+      "name": "Cake",
+      "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "b78c",
+      "name": "Pasta",
+      "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+}
